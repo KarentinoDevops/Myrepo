@@ -1,0 +1,20 @@
+1.	What is Git?
+Git is a version control system used to track the changes  of your files. It allows you to manage different. versions of your project.
+2.	What is GitHub?
+Github is a version control system with a remote repository. It is used by teams to collaborate on  projects.
+3. 3.	What is the difference between git/github
+Git is installed on your local machine , comes with a repository on your local system and is open source and free to use. Github is a remote repository, runs on the cloud and there is free and paid tiers.
+4.	Explain the importance of git/github
+Git and Github help to ensure safe backups of your projects, they make it easier to work as part of a team and be able to collaborate smoothly. You can get a full history of all the changes made and you can also undo mistakes easily, simply go back to the version when your project was working properly.
+5.	Explain/define the following Terminologies
+1.	Working directory – Folder location where your project lives on your local machine
+2.	Difference between local repo and remote repo – Repository on your local machine, remote repository on a remote server in the cloud.
+3.	Staging – Preparing and selecting  your files before commiting them.
+4.	Git init – Initialise, to create a Git repository 
+5.	Difference between git clone and git pull – Lets say you  just joined a new team, to get the full contents of the remote repo onto your local, you need to  do git clone. However if you already have the files on your local but you just want to get the new changes you can do git pull.
+6.	What is the function of git config? 
+Git Config is a command used to set up Gits’s settings on your computer  such  as setting your name and email before you start. Using Git. That way you and your team can keep track of who made changes
+7.	Explain the concept of git branching strategy. – A structured way of using branches in a git repository to manage features, fixes, releases and collaborations
+8.	Why is branching important in Git? - It helps keep code organised and makes teamwork smoother. Without a strategy code can get messy fast, especially when multiple people are working on the same project. A branching strategy prevents conflicts and supports continuous development.
+9.	What is commit message? – A short description that you write when you make changes to code. It explains what you changed and why helping others on the team understand the history of the project.
+10.	 Explain the advantages of distributed version control – You can work offline and even commit changes, create branches and view history, only when working with others will you need to connect. Every develop has a full copy of the repository so its easier to restore from the many clones. Everyone works on their own branch so you can test and improve your work before sharing It with the team. It is also more secure.

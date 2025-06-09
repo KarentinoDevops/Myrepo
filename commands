@@ -1,0 +1,3 @@
+git --version # check if  git is installed
+git config --list # check if git is configured
+git init # initialising git repository
